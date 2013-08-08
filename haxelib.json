@@ -1,0 +1,12 @@
+{
+ "name": "mochi.hx",
+ "url" : "",
+ "license": "MIT",
+ "tags": ["game","ads","api","leaderboards"],
+ "description": "Haxe externs for Mochi API 4.1.2",
+ "version": "1.0.0",
+ "releasenote": "release",
+ "contributors": ["as3boyan"],
+ "dependencies": { 
+ }
+}
